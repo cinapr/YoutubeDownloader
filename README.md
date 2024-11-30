@@ -7,10 +7,11 @@ Youtube downloader based on [pytubefix](https://github.com/JuanBindez/pytubefix)
 To install the required library, run the following command:
 ```bash
 pip install pytubefix
+```
 
 
-
-## Run Code
+### RUN THE SCRIPTS
 To install the run the code after library installation :
 ```bash
 python EACH_OF_THE_CODE.py
+```
