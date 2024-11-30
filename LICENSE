@@ -1,21 +1,64 @@
 MIT License
 
-Copyright (c) 2024 cinapr
+Copyright (c) 2024 cinapr -> downloaded library from https://github.com/JuanBindez/pytubefix
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+# Copyright Notice and Disclaimer
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository and the associated code are provided for educational and informational purposes. 
+This repository contains code that interacts with YouTube content through the `pytubefix` library (https://github.com/JuanBindez).
+All rights to the code are owned by the original author. 
+The use of this code is governed by the law and regulations defined by the governments.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+
+## Disclaimer
+
+By using this code, you acknowledge and agree to the following:
+
+- **YouTube Content Ownership**: YouTube videos, captions, and other content are owned by their respective content creators and YouTube, Inc. This code does not grant you ownership of any content you access via YouTube.
+- **Content Responsibility**: You are solely responsible for ensuring that the content you download or interact with complies with copyright law. Do not download, distribute, or use videos or other content unless you have explicit permission from the copyright holder or the content is freely available for download (e.g., under a Creative Commons license).
+- **No Download of Copyrighted Content**: This code is not intended to facilitate the downloading of copyrighted content without authorization from the owner. You are prohibited from using this code to download or distribute copyrighted content without proper rights or permissions.
+- **No Liability for Misuse**: The author(s) of this repository take no responsibility for any misuse of this code. By using this repository, you agree to use it only in ways that comply with applicable copyright laws, YouTube's Terms of Service, and any other relevant legal agreements.
+- **Pytubefix Library**: This repository uses the `pytubefix` library, which is owned and maintained by [JuanBindez](https://github.com/JuanBindez). You can find the original library and its licensing details at [https://github.com/JuanBindez/pytubefix](https://github.com/JuanBindez/pytubefix).
+
+
+
+## Disclaimer
+
+By using or contributing to this repository, you agree to the following:
+
+1. **Compliance with YouTube's Terms of Service**: 
+   This repository is intended for educational purposes only. **YouTube videos and content are protected by copyright law**, and you must comply with YouTube's Terms of Service when interacting with or downloading content from YouTube. You **may not download, redistribute, or use** any content that you do not own or have permission to use. This includes all videos, captions, and other media hosted on YouTube.
+
+   YouTube’s Terms of Service can be found here: [YouTube Terms of Service](https://www.youtube.com/t/terms)
+
+2. **Responsibility for Use**: 
+   The author of this repository, [Your Name], is **not responsible** for any misuse of the code or violations of copyright law resulting from the use of this repository. If you use this code to download videos, captions, or other content from YouTube, you do so **at your own risk** and are solely responsible for ensuring compliance with applicable laws and the rights of content creators.
+
+3. **Content Ownership**: 
+   The content on YouTube is owned by its respective creators and **not by this repository**. The use of YouTube's services, including access to videos and captions, is governed by the **YouTube Terms of Service**, which you should read and agree to before using any services offered by YouTube.
+
+4. **External Libraries**: 
+   This repository uses the `pytubefix` library (https://github.com/JuanBindez), which provides functionality to interact with YouTube. The `pytubefix` library is **licensed** under [license name, e.g., MIT License], and is maintained by its respective authors. The use of `pytubefix` is also subject to the library's terms and conditions, which can be found on the repository page: [pytubefix GitHub](https://github.com/JuanBindez)
+
+5. **No Warranty**: 
+   This repository is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the repository or the use or other dealings in the repository.
+
+
+
+## License
+
+Follow the license of Youtube and PyTubeFIX
+
+
+
+## YouTube's Terms of Service
+
+When using this code, you are subject to YouTube's Terms of Service, and you agree to comply with YouTube's policies. This includes, but is not limited to, YouTube's policy on downloading content and copyright enforcement.
+- YouTube Terms of Service: [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms)
+
+
+
+
+
+
